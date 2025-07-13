@@ -32,8 +32,8 @@
 
 1. **Clona este repo:**
    ```bash
-   git clone https://github.com/tu-usuario/screenmatch.git
-   cd screenmatch
+   [git clone https://github.com/tu-usuario/screenmatch.git
+   cd screenmatch](https://github.com/YairZ21/BASE-APLICACION-PELICULAS.git)
 
 1.Configura la base de datos en application.properties si deseas usar otra distinta a H2.
 2.Ejecuta la aplicación:
